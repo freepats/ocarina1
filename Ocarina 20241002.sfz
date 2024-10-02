@@ -1,0 +1,62 @@
+//+ Name: Ocarina
+//+ Date: 2024-10-02
+//+ URL: http://freepats.zenvoid.org/Wind/ocarina.html#Ocarina1
+
+<global>
+ ampeg_release=0.4
+
+<group>
+ loop_mode=loop_continuous
+<region>
+ lokey=60 hikey=70
+ pitch_keycenter=66
+ loop_start=14805 loop_end=45027
+ sample=samples/F#4.flac
+<region>
+ lokey=71 hikey=73
+ pitch_keycenter=73
+ loop_start=39558 loop_end=150554
+ sample=samples/C#5_01.flac
+<region>
+ lokey=74 hikey=75
+ pitch_keycenter=74
+ loop_start=23402 loop_end=75313
+ sample=samples/D5_01.flac
+<region>
+ key=76
+ loop_start=16668 loop_end=63256
+ sample=samples/E5_01.flac
+<region>
+ key=77
+ loop_start=82197 loop_end=206245
+ sample=samples/F5_01.flac
+<region>
+ key=78
+ loop_start=64197 loop_end=168032
+ sample=samples/F#5_01.flac
+<region>
+ key=79
+ loop_start=36058 loop_end=163114
+ sample=samples/G5_01.flac
+<region>
+ key=80
+ loop_start=52531 loop_end=184023
+ sample=samples/G#5_01.flac
+<region>
+ key=81
+ loop_start=70297 loop_end=218776
+ sample=samples/A5_01.flac
+<region>
+ key=82
+ loop_start=87003 loop_end=193433
+ sample=samples/A#5_01.flac
+<region>
+ lokey=83 hikey=85
+ pitch_keycenter=83
+ loop_start=13758 loop_end=81514
+ sample=samples/B5_01.flac
+<region>
+ lokey=86 hikey=92
+ pitch_keycenter=88
+ loop_start=3797 loop_end=62613
+ sample=samples/E6.flac
